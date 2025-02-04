@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Css/style.css">
     <title>Pedro Hospedagem Hostinger</title>
-    <link rel="shortcut icon" href="favicon/servico-de-ti.png" type="image/x-icon">
+    <link rel="shortcut icon" href="Img/servico-de-ti.png" type="image/x-icon">
 </head>
 <body>
 
@@ -13,10 +13,10 @@
         <div class="header__logo">Cards Hospedagem</div>
         <nav class="header__nav"> 
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#" class="header__nav--active">Planos</a></li>
-                <li><a href="#">Suporte</a></li>
-                <li><a href="#">Contato</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="planos.php" class="header__nav--active">Planos</a></li>
+                <li><a href="suporte.php">Suporte</a></li>
+                <li><a href="contato.php">Contato</a></li>
             </ul>
         </nav>
     </header>
